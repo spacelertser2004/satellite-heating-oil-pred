@@ -1,5 +1,3 @@
-# satellite-heating-oil-pred
-
 # Satellite-Informed Heating Oil Trading Strategy
 
 This project, developed for the Oregon Quant Group, explores the predictive power of satellite temperature data in forecasting heating oil prices. We use Z-score anomaly detection, seasonal demeaning, and machine learning (ElasticNet and LightGBM) to construct long/short strategies and validate them with robust cross-validation and walk-forward testing.
